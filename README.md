@@ -1,5 +1,6 @@
 # LockBit-5.0-Ransomware-Sample
 Sample for Chuongdong/LockBit 5.0 Ransomware to reverse
+
 Password: infected
 
 # READ THIS BEFORE TOUCHING THE SAMPLES
