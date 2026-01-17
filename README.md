@@ -40,3 +40,9 @@ http://lockbit7z6rzyojiye437jp744d4uwtff7aq7df7gh2jvwqtv525c4yd.onion/
 
 Tox ID Support:
 3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D14E41080A105 
+
+Chat Link:
+http://lockbitsuppyx2jegaoyiw44ica5vdho63m5ijjlmfb7omq3tfr3qhyd.onion/
+
+Decryption ID (for testing on chat): 
+8860A4A3F44571A4968657D7172EEC5B
